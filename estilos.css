@@ -1,0 +1,29 @@
+.Titulo{
+    text-align:center;
+    font-size: 60px;
+    color:white;
+}
+.subtitulo{
+    font-size: 30px;
+}
+.ingrediente{
+    font-size: 20px;
+}
+.paso{
+    font-size: 20px;
+    font-style: italic;
+}
+h1{    text-align:center;
+    font-size: 60px;
+    color:white;
+
+}
+p{
+    color:white;
+}
+a{
+    color:white;
+}
+li{
+    color:white;
+}
